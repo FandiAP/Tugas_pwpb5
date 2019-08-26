@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tugas_PWPB5_Recycleview</string>
+    <string name="headset_name">Nama Headset :</string>
+    <string name="brand">Brand :</string>
+    <string name="height">Berat :</string>
+    <string name="harga">Harga :</string>
+    <string name="garansi">Garansi </string>
+    <string name="description">Deskripsi :</string>
+    <string name="readmore">Beli Sekarang </string>
+    <string name="share">Share</string>
+    <string name="list">List</string>
+    <string name="with_cardview">With CardView</string>
+</resources>
